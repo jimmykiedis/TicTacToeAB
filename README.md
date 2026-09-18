@@ -41,18 +41,16 @@ cd TicTacToeAB
 
 Alternatively, download the project as a ZIP file from the repository page and extract it into a local folder.
 
-📋 2. Prerequisites
 
-- Python 3.x installed.
-- Pygame library.
-
-🔗 3. Install the dependency:
+🔗 2. Install the project and its dependencies:
 
 ```bash
-pip install pygame
+pip install .
 ```
 
-▶️ 4. Run the game
+This command installs the project and all dependencies declared in `pyproject.toml`.
+
+▶️ 3. Run the game
 
 In the project directory, run:
 

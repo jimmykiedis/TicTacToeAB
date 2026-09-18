@@ -1,0 +1,8 @@
+[project]
+name = "tictactoeab"
+version = "0.1.0"
+description = "Jogo da velha com IA usando Minimax e Pygame"
+requires-python = ">=3.8"
+dependencies = [
+	"pygame>=2.0",
+]

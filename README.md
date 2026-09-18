@@ -35,7 +35,7 @@ Provide an educational project to study concepts of artificial intelligence appl
 📥 1. Clone the repository with Git:
 
 ```bash
-git clone TicTacToeAB.git
+git clone https://github.com/jimmykiedis/TicTacToeAB.git
 cd TicTacToeAB
 ```
 
